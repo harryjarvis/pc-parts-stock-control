@@ -29,7 +29,13 @@ A Java-based stock control system with a graphical user interface for managing P
 
 ## Screenshots
 
-(Add screenshots here)
+### Console Output
+
+[Console Output](screenshots/console.png)
+
+### GUI
+
+[GUI](screenshots/gui.png)
 
 ## How to Run
 
