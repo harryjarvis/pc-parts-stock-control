@@ -5,7 +5,7 @@ A Java-based stock control system with a graphical user interface for managing P
 ## Technologies
 
 - Java
-- Java Swing / JavaFX (whichever you used)
+- Java Swing
 - Object-Oriented Programming
 - Eclipse
 
